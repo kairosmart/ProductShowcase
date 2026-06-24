@@ -1,6 +1,6 @@
 # KSW01 Smartwatch
 
-![KSW01](images/ksw01.png)
+![KSW01](ksw01.png)
 
 ## Overview
 
