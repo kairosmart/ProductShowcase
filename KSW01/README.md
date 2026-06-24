@@ -6,7 +6,7 @@
 
 The **KSW01** is a modern round smartwatch designed for everyday fitness, health monitoring, and smart connectivity. Built around **Zephyr RTOS**, it combines a premium minimalist design with efficient embedded performance.
 
-With its 43 mm circular case, vibrant AMOLED display, health sensors, and magnetic charging system, the KSW01 is designed as an open and customizable smartwatch platform.
+With its 43 mm circular case, vibrant AMOLED display, health sensors, and magnetic charging system, the KSW01 is designed as a budget smartwatch platform.
 
 ---
 
